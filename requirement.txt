@@ -1,0 +1,6 @@
+torch
+trimesh
+rembg
+onnxruntime
+-e .
+git+https://github.com/username/repo.git
